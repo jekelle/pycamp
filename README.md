@@ -1,43 +1,29 @@
-# 🐍 Python + Machine Learning Summer Camp
+Python + Machine Learning Summer Camp
 
-**IU Indianapolis · July 13-17, 2026**
+IU Indianapolis | July 13-17, 2026
 
-One week from "what's a variable?" to building AI that writes its own text.
+Welcome! This repo holds all of the student notebooks for camp week. Each day has a main exercise notebook and a bonus challenge pack for anyone who finishes early and wants to earn points on the leaderboard.
 
-## 📅 The Week
+Materials by Jay R. Kelley, M.S. Sports Analytics, Luddy School, IU Indianapolis.
 
-| Day | Theme | Notebook | You'll build |
-|-----|-------|----------|--------------|
-| **1** | Intro + marimo setup | [Day 1](day1_intro_marimo/exercises.py) | Your first interactive program |
-| **2** | Python basics | [Day 2](day2_python_basics/exercises.py) | Loops, lists, functions, a grading bot |
-| **3** | NLP basics + Markov chains | [Day 3](day3_nlp_markov/exercises.py) | An AI that generates sentences |
-| **4** | word2vec | [Day 4](day4_word2vec/exercises.py) | Word math: king - man + woman = 👑 |
-| **5** | 🚀 PROJECT DAY | [Day 5](day5_project_day/exercises.py) | Your own project + showcase |
+How to open a notebook
 
-## 🏁 Getting Started (Students)
+Click the molab link for today in the table below. The notebook opens in your browser, no installs needed. Run a cell with Ctrl+Enter (Windows) or Cmd+Enter (Mac).
 
-**Option A: molab (browser, nothing to install)**
-1. Go to [molab.marimo.io](https://molab.marimo.io)
-2. Create a new notebook and import the day's `exercises.py` file
+If a link is not working, your TA can share the notebook directly.
 
-**Option B: on your computer**
-```bash
-pip install marimo gensim
-marimo edit day1_intro_marimo/exercises.py
-```
+Daily notebooks
 
-## 📂 What's in each folder
+DayTopicExercisesChallenges1 (Mon)Intro to marimo and first codeOpen in molabOpen in molab2 (Tue)Python basics: variables, loops, conditionals, lists, functionsOpen in molabOpen in molab3 (Wed)NLP basics: tokens, regex, Markov chains, text generationOpen in molabOpen in molab4 (Thu)Word embeddings with word2vecOpen in molabOpen in molab5 (Fri)Project day and showcaseOpen in molabBug Hunt: Open in molab
 
-- `exercises.py`: the student notebook (start here!)
-- `SOLUTIONS.md` / `solutions.py`: instructors only 👀
+The rules of the game
 
-## 🧑‍🏫 Staff
 
-- `TEACHING_GUIDE.md`: day-by-day run of show
-- `TRACKER.md`: student progress checklist
+Work through the exercises in order. Every exercise has a hint built in, so try the hint before raising your hand.
+Finished early? Open the challenge pack. Challenges are worth points, and points go on the leaderboard.
+Friday is project day. You will build something of your own using anything you learned during the week, then show it off.
 
----
-*Questions during camp? Flag down a TA. Errors are normal. Read the last line first.* 🔍
 
-**Materials by Jay R. Kelley** · M.S. Sports Analytics, Luddy School, IU Indianapolis
-Co-facilitated with Prof. Leon Johnson · Summer 2026
+Getting help
+
+Ask your TA (Jay) or the instructor (Professor Johnson) any time. There are no bad questions at camp.
