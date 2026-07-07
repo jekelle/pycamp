@@ -39,7 +39,7 @@ The notebooks below hold each day's full exercise list, ordered from foundationa
 | 2 | Tue 7/14 | Python fundamentals: variables, conditionals, loops, lists, functions | [Open in molab](https://github.com/jekelle/pycamp-student/blob/main/day2_python_basics/exercises.py) |
 | 3 | Wed 7/15 | Working with text: tokens, regular expressions, Markov chains | [Open in molab](https://github.com/jekelle/pycamp-student/blob/main/day3_nlp_markov/exercises.py) |
 | 4 | Thu 7/16 | Word embeddings and word2vec | [Open in molab](https://github.com/jekelle/pycamp-student/blob/main/day4_word2vec/exercises.py) |
-| 5 | Fri 7/17 | Project day and showcase | [Project Day](https://github.com/jekelle/pycamp-student/blob/main/day5_project_day/exercises.py) · [Bug Hunt](https://github.com/jekelle/pycamp-student/blob/main/day5_project_day/bug_hunt.py) |
+| 5 | Fri 7/17 | Project day and showcase | [Project Day](https://github.com/jekelle/pycamp-student/blob/main/day5_project_day/exercises.py) |
 
 ## Project day
 

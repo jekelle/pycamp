@@ -24,10 +24,3 @@ These are the later, more challenging exercises in each day's notebook (the "Lev
 2. **Hot and Cold:** `model.wv.similarity(secret, g)`, threshold 0.3. Going further sort: `sorted(guesses, key=lambda g: model.wv.similarity(secret, g), reverse=True)`.
 3. **Corpus Chef:** must retrain after editing corpus (common miss: editing corpus but reusing old model).
 4. **Tournament:** `def matchup(w1, w2, judge): return w1 if model.wv.similarity(w1, judge) > model.wv.similarity(w2, judge) else w2`.
-
-## Day 5 Bug Hunt answers
-1. `greet` never returns: add `return message`.
-2. Condition order: check `>= 90` before `>= 80`.
-3. `range(10, 1, -1)` stops at 2: change to `range(10, 0, -1)`.
-4. KeyError on first sighting: `counts[w] = counts.get(w, 0) + 1`.
-5. `word` never updates inside the loop: add `word = next_word` after the append.
