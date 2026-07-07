@@ -35,11 +35,11 @@ The notebooks below hold each day's full exercise list, ordered from foundationa
 
 | Day | Date | Topic | Notebook |
 |:---:|:----:|-------|:--------:|
-| 1 | Mon 7/13 | Introduction to marimo and first programs | [Open in molab](PASTE_LINK_HERE) |
-| 2 | Tue 7/14 | Python fundamentals: variables, conditionals, loops, lists, functions | [Open in molab](PASTE_LINK_HERE) |
-| 3 | Wed 7/15 | Working with text: tokens, regular expressions, Markov chains | [Open in molab](PASTE_LINK_HERE) |
-| 4 | Thu 7/16 | Word embeddings and word2vec | [Open in molab](PASTE_LINK_HERE) |
-| 5 | Fri 7/17 | Project day and showcase | [Project Day](PASTE_LINK_HERE) · [Bug Hunt](PASTE_LINK_HERE) |
+| 1 | Mon 7/13 | Introduction to marimo and first programs | [Open in molab](https://molab.marimo.io/github/jekelle/pycamp-student/blob/main/day1_intro_marimo/exercises.py) |
+| 2 | Tue 7/14 | Python fundamentals: variables, conditionals, loops, lists, functions | [Open in molab](https://molab.marimo.io/github/jekelle/pycamp-student/blob/main/day2_python_basics/exercises.py) |
+| 3 | Wed 7/15 | Working with text: tokens, regular expressions, Markov chains | [Open in molab](https://molab.marimo.io/github/jekelle/pycamp-student/blob/main/day3_nlp_markov/exercises.py) |
+| 4 | Thu 7/16 | Word embeddings and word2vec | [Open in molab](https://molab.marimo.io/github/jekelle/pycamp-student/blob/main/day4_word2vec/exercises.py) |
+| 5 | Fri 7/17 | Project day and showcase | [Project Day](https://molab.marimo.io/github/jekelle/pycamp-student/blob/main/day5_project_day/exercises.py) · [Bug Hunt](https://molab.marimo.io/github/jekelle/pycamp-student/blob/main/day5_project_day/bug_hunt.py) |
 
 ## Project day
 
